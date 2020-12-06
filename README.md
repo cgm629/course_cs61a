@@ -1,2 +1,2 @@
-# course_cs61b
-UC Berkeley CS61b for Self-learning
+# course_cs61a
+UC Berkeley CS61a for Self-learning
