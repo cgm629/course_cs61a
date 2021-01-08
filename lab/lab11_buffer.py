@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@guanmche 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-This repository has been archived by the owner. It is now read-only.
-sgalal
-/
-cs61a
-Archived
-3
-101
-Code
-Pull requests
-Actions
-Security
-Insights
-cs61a/Labs/lab11/buffer.py /
-@sgalal
-sgalal Emplace protogenic lab 11 and 12
-Latest commit 5969adb on Aug 10, 2019
- History
- 1 contributor
-50 lines (46 sloc)  1.48 KB
-  
 class Buffer(object):
     """A Buffer provides a way of accessing a sequence one at a time.
     Its constructor takes a sequence, called the "source".
