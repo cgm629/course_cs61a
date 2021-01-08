@@ -48,15 +48,3 @@ class Buffer(object):
 
     def __str__(self):
         return str(self.source[self.index:])
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
